@@ -1,5 +1,7 @@
 # Facebook Lead Automation
 
+A project by [Nivaen Giritharan](https://github.com/fwnivaen).
+
 Turn Facebook group posts into a lead pipeline for your business. Collect posts with Apify, qualify them with campaign-specific filters in Make.com, and track leads in Google Sheets. Use the same workflow for service requests, product inquiries, real estate, recruiting, or another lead niche by changing the groups, qualification rules, and Sheet fields.
 
 [![Validate configuration](https://github.com/fwnivaen/facebook-lead-automation/actions/workflows/validate.yml/badge.svg)](https://github.com/fwnivaen/facebook-lead-automation/actions/workflows/validate.yml)
